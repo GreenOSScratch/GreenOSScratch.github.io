@@ -1,0 +1,25 @@
+{
+  "name": "Green OS",
+  "description": "kewl",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "GreenOS"
+  ],
+  "authors": [
+    "GreenOS team"
+  ],
+  "license": "The Non-License",
+  "homepage": "GreenOSScratch.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.3.1",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7"
+  }
+}
